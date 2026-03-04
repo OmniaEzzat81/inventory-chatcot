@@ -1,1 +1,1 @@
-# inventory-chatcot
+# inventory-chatbot
